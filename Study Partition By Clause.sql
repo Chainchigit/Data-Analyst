@@ -106,5 +106,16 @@ SELECT
 FROM revenue_per_shop;
 
 -------------------------------#7----------------------------------------------
+# Find the Maximum Value
+SELECT
+  shop,
+  date,
+  revenue_amount,
+  MAX(revenue_amount) OVER (
+    ORDER BY DATE
+    RANGE BETWEEN INTERVAL '3' DAY PRECEDING AND INTERVAL '1' DAY FOLLOWING
+  ) AS max_revenue
+FROM revenue_per_shop;
 
+------------------------------#8-----------------------------------------------
 
