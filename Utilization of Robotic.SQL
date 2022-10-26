@@ -1,3 +1,5 @@
+ALTER TABLE SP26_10_22 ADD station;
+
 SELECT
     description,
     last,
