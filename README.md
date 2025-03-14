@@ -1,6 +1,4 @@
-# Data-Analyst Project hands-on
-จากภาพที่แสดงโครงสร้างของ Repository **"Data-Analyst"** บน GitHub ของคุณ ผมได้ปรับแต่ง **README.md** ให้เหมาะสมกับเนื้อหาของโปรเจกต์ที่คุณมีอยู่:
-
+# Data-Analyst 
 ---
 
 ### **📌 README.md for Data-Analyst Repository**
