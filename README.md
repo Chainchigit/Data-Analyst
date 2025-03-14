@@ -1,11 +1,11 @@
 # Data-Analyst 
 ---
 
-### **📌 README.md for Data-Analyst Repository**
+### ** README.md for Data-Analyst Repository**
 ```md
-# 📊 Data-Analyst Repository
+#  Data-Analyst Repository
 
-Welcome to the **Data-Analyst** repository! 🚀  
+Welcome to the **Data-Analyst** repository!  
 This repository contains various data analytics projects, SQL queries, machine learning models, and web scraping scripts.
 
 ---
@@ -32,39 +32,39 @@ Data-Analyst/
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 **Data Analysis & Visualization**: Exploratory Data Analysis (EDA) with Pandas, Matplotlib, Seaborn
-- 🔄 **SQL Queries**: Database queries for data insights (e.g., `Project Chinook`)
-- 🧠 **Machine Learning Models**: Logistic Regression, Neural Networks, and ML-based forecasting
-- 🎮 **Game Data Analysis**: Insights from FreeFire, PUBG, and OOP-based games
-- 🛒 **Business Analytics**: Sales reports, customer segmentation, and optimization
-- 🔎 **Web Scraping**: Scraping website data using Python and BeautifulSoup
+-  **Data Analysis & Visualization**: Exploratory Data Analysis (EDA) with Pandas, Matplotlib, Seaborn
+-  **SQL Queries**: Database queries for data insights (e.g., `Project Chinook`)
+-  **Machine Learning Models**: Logistic Regression, Neural Networks, and ML-based forecasting
+-  **Game Data Analysis**: Insights from FreeFire, PUBG, and OOP-based games
+-  **Business Analytics**: Sales reports, customer segmentation, and optimization
+-  **Web Scraping**: Scraping website data using Python and BeautifulSoup
 
 ---
 
 ## 🛠️ Setup & Installation
 
-### **1️⃣ Clone the Repository**
+### **1️ Clone the Repository**
 ```sh
 git clone https://github.com/Chainchigit/Data-Analyst.git
 cd Data-Analyst
 ```
 
-### **2️⃣ Create a Virtual Environment (Optional)**
+### **2️ Create a Virtual Environment (Optional)**
 ```sh
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### **3️⃣ Install Dependencies**
+### **3️ Install Dependencies**
 ```sh
 pip install -r requirements.txt
 ```
 
 ---
 
-## 📊 Example Usage
+##  Example Usage
 
 ### **Running SQL Queries**
 Execute SQL queries in `Project Chinook`:
@@ -85,7 +85,7 @@ python Project_Web_Scraping/agoda_scraper.py
 
 ---
 
-## 📌 Dependencies
+##  Dependencies
 
 Make sure you have the following installed:
 - Python 3.8+
@@ -102,13 +102,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn beautifulsoup4 selenium
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👥 Contributing
+##  Contributing
 
 Want to improve this repository? Follow these steps:
 1. **Fork** the repository.
@@ -119,26 +119,9 @@ Want to improve this repository? Follow these steps:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **GitHub**: [Chainchigit](https://github.com/Chainchigit)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/yourprofile/)
+- **Email**: c.chainchi@gmail.com
 
 ---
-
-Happy Analyzing! 🚀📊
-```
-
----
-
-### **✅ Highlights of This README**
-- ✅ **อธิบายโปรเจกต์แต่ละอันให้ชัดเจน** (BostonHousing, Chinook, Churn, Web Scraping ฯลฯ)
-- ✅ **มีโครงสร้างไฟล์ที่ชัดเจน** 📂
-- ✅ **มีคำสั่งติดตั้ง และการรันสคริปต์ให้ชัดเจน**
-- ✅ **อธิบาย dependencies ที่ต้องใช้**
-- ✅ **เปิดรับการ contribute จากคนอื่น** 🔥
-
----
-
-📌 **ต้องการเพิ่มคำอธิบายเพิ่มเติมสำหรับโปรเจกต์ไหนเป็นพิเศษไหม?** 😊🚀
