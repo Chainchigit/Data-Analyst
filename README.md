@@ -121,7 +121,7 @@ Want to improve this repository? Follow these steps:
 
 ##  Contact
 
-- **GitHub**: [Chainchigit](https://github.com/Chainchigit)
+- **GitHub**: [Chainchigit](https://github.com/Chainchigit/Data-Analyst)
 - **Email**: c.chainchi@gmail.com
 
 ---
